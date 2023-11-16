@@ -180,7 +180,7 @@ canvas {
 
 .buscar {
     padding: 1rem;
-    height: 40%;
+    height: 0%;
     display: flex;
     justify-content: center;
     align-items: flex-end;

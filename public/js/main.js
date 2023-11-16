@@ -74,7 +74,7 @@ async function takeScreenshot (){
     canvas.height = originalImage.height;
     ctx.drawImage(originalImage, 0, 0);
 
-    const logo2X = 0;
+    const logo2X = -1;
     const logo2Y = canvas.height - logo2Height;
     ctx.drawImage(logo2, logo2X, logo2Y, logo2Width, logo2Height);
 

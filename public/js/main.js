@@ -4,7 +4,7 @@ let webcamScene = document.getElementById('webcam-scene');
 let mainBody = document.getElementById('main-body');
 let snap = document.getElementById('snap');
 let marcoThumb = document.getElementById('marco-thumb');
-let marco;
+let marco = 'marco1';
 
 const video = document.getElementById('video');
 const canvas = document.getElementById('canvas');

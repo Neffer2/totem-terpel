@@ -130,7 +130,7 @@ canvas {
     flex-wrap: wrap;
     justify-content: center; 
     align-items: flex-end;
-    gap: 0.6rem;
+    gap: 0.8rem;
 }
 
 .miniaturas img {
@@ -143,7 +143,7 @@ canvas {
     cursor: pointer;
 }
 
-.code-scene {
+.code-scene { 
     height: 100%;
     display: flex;
     flex-direction: column;

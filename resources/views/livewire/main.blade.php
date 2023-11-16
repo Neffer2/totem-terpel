@@ -8,7 +8,7 @@
             <div id="codigo-qr" class="p-2">
                 <img src="{{ asset('assets/images/qr-code.png') }}" alt="">
             </div>
-            <a class="btn btn-primary" href="{{ route('/') }}" style="background-color: #6f42c1; border-color: #6f42c1">  
+            <a class="btn btn-primary" href="{{ route('/') }}">  
                 <i class="fa-solid fa-rotate-left"></i>
             </a>
         </div>  
